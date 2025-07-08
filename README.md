@@ -50,7 +50,7 @@
 ## 📫 Contact Me
 
 [![Email](https://img.shields.io/badge/jure@163.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jurelxc@163.com)
-[![GitHub](https://img.shields.io/badge/GitHub-xingxing-blue?logo=github)](https://github.com/你的用户名)
+[![GitHub](https://img.shields.io/badge/GitHub-xingxing-blue?logo=github)](https://github.com/acsweets)
 
 ---
 
